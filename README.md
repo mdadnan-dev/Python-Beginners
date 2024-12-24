@@ -3,7 +3,7 @@ This repository contains practice codes for beginners who want to learn and upsk
 
 Topics explained in each file is listed below:   
 
-Lesson 1  
+#### Lesson 1  
 --> print()  
 --> Variables  
 --> Strings  
@@ -19,7 +19,7 @@ Lesson 1
 --> Integer  
 --> Float  
 
-Lesson 2  
+#### Lesson 2  
 --> List  
 --> Accessing Elements in a List  
 --> Modifying Elements in a List  
@@ -38,3 +38,24 @@ Lesson 2
 --> Slicing in a List  
 --> Using for loops with Slicing  
 --> Copying list  
+
+#### Lesson 3
+--> Tuple  
+--> Looping through all values of Tuple  
+--> Overwriting a Tuple  
+--> if statement  
+--> Conditional Tests  
+--> Checking Inequality  
+--> Numerical Comparisions  
+--> Checking Multiple Conditions  
+--> Checking a Value in a List  
+--> Checking a Value Not In a List  
+--> Boolean Expressions  
+--> Simple IF Statement  
+--> IF - Else statement  
+--> IF-ELIF-ELSE statement  
+--> Using more than one elif block  
+--> Testing Multiple Conditions  
+--> Checking Special Items  
+--> Checking a list is Empty or Not  
+--> Using Multiple Lists  
