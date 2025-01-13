@@ -74,3 +74,13 @@ Topics explained in each file is listed below:
    -  List of Dictionaries
    -  List in a Dictionary
    -  Nested Dictionary
+
+#### Lesson 5
+   - Input()  
+   - Using int()  
+   - While Loops  
+   - Flag  
+   - Break  
+   - Continue  
+   - While Loop on lists  
+   - While loop on Dictionaries  
